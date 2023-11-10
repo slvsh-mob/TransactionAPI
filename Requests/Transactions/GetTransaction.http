@@ -1,0 +1,2 @@
+@id=97e0c4af-a609-41bd-94bd-288d135ffcd0
+GET http://localhost:5082/transactions/{{id}}
